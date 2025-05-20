@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ademola Adedapo
+# 👋 Hi, I'm Michael Adedapo
 
 I’m a Full-Stack Developer who loves building web apps that look great and work even better. I’m all about HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB. Basically, I’ve got the whole MERN stack down pat and can whip up slick, responsive interfaces that users love.
 
