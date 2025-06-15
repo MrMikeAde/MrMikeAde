@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Michael Adedapo
 
-I’m a Full-Stack Developer who loves building web apps that look great and work even better. I’m all about HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB. Basically, I’ve got the whole MERN stack down pat and can whip up slick, responsive interfaces that users love.
+I’m a Web Developer who loves building web apps that look great and work even better.With the MERN stack, I build apps that are not only powerful but also ready to grow with your needs.
 
-I get a kick out of using React and Next.js to create smooth, dynamic experiences—think fast, intuitive, and just fun to use. With the MERN stack, I build apps that are not only powerful but also ready to grow with your needs.
-
-I’ve worked on all sorts of projects, from small personal apps to big, complex systems. I’m a stickler for clean code, solid architecture, and keeping things organized with Git and GitHub. It’s all about making sure the code’s easy to maintain and the project runs like a dream.
+I’ve worked on all sorts of projects, from small personal apps to big, complex systems. I’m a stickler for clean code, solid architecture, and keeping things organized.
 
 I’m always learning—new tools, frameworks, whatever’s hot in the tech world. I love teaming up with others, swapping ideas, and solving problems together. It’s how the best stuff gets built.
 
-If you need a Full-Stack Developer who’s all in and ready to make something awesome, I’m your person. Let’s grab a coffee (virtual or real) and build something epic! 🚀
+If you need a Web Developer who’s all in and ready to make something awesome, I’m your person. Let’s build something epic! 
 
 ---
 
