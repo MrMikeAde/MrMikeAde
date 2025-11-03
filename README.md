@@ -28,7 +28,7 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 ---
 
 ## 🤝 Connect With Me  
-- 🌐 [My Aegncy Website](https://buildwithmike.netlify.app)  
+- 🌐 [My Agency Website](https://buildwithmike.netlify.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/michaeladedapo)  
 - ✉️ Email: **michaeladedapo@gmail.com**
 
