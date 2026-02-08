@@ -29,11 +29,11 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 
 ## 🤝 Connect With Me  
 - 🌐 [My Agency Website](https://buildwithmike.netlify.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/michaeladedapo)  
+- 💼 [LinkedIn](https://linkedin.com/in/ademola-m-adedapo)  
 - ✉️ Email: **michaeladedapo@gmail.com**
 
 ---
 
 > *"Your Source for Global Tech Solutions"*  
-> — **MikroSource**
+ 
  
