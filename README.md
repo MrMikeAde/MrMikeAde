@@ -17,6 +17,13 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 
 ---
 
+### Current Projects
+
+- 1. **[Voidesk](https://github.com/MrMikeAde/Voidesk)** — Professional discovery hub for curated productivity tools, workflows, and digital workspaces.
+- 2. 
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Core**
