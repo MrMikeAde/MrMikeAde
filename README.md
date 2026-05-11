@@ -44,6 +44,7 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 3.   **[D2C E-commerce 🏬 ](https://github.com/MrMikeAde/ftl)** — D2C E-commerce Automation & Analytics
 4.    **[AutoCare 👨‍🔧 ](https://github.com/MrMikeAde/auto-service)** — AutoCare Service Management Digitization
 5. **[TrustLink 🔗 ](https://github.com/MrMikeAde/TrustLink)** — Trust Orchestration Layer for WhatsApp Commerce
+6. **[Luxe -Interior 🏠 ](https://github.com/MrMikeAde/LuxeNest-Interiors)** — Headless commerce solution for an interior design brand
 
 
 ---
