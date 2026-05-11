@@ -37,6 +37,16 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 10. 
 ---
 
+### 🚀 My Next.Js Projects
+
+1. **[TastyHub 🍲](https://github.com/MrMikeAde/tastyhub)** — Operational Efficiency for Restaurant Groups
+2.  **[Event Booking 🎫 ](https://github.com/MrMikeAde/ticket)** — High-Traffic Event Ticketing Infrastructure
+3.   **[D2C E-commerce 🏬 ](https://github.com/MrMikeAde/ftl)** — D2C E-commerce Automation & Analytics
+4.    **[AutoCare 👨‍🔧 ](https://github.com/MrMikeAde/auto-service)** — AutoCare Service Management Digitization
+5. **[TrustLink 🔗 ](https://github.com/MrMikeAde/TrustLink)** — Trust Orchestration Layer for WhatsApp Commerce
+
+
+---
 ### 🛠️ Tech Stack
 
 **Languages & Core**
