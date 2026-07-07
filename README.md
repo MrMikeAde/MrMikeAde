@@ -34,7 +34,7 @@ I build clean, scalable, and efficient solutions that merge technology with simp
 
 9. 📬 **[Waitlist](https://github.com/MrMikeAde/waitlist)** — Sleek and customizable waitlist landing page template for startups, SaaS products, and launches.
 
-10. 
+10.    **[Waitlist](https://github.com/MrMikeAde/m-logistics)** —  
 ---
 
 ### 🚀 My Next.Js Projects
