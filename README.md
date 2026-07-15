@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Michael Adedapo
-### 🚀 Frontend Developer & Technical Support Specialist
+#  Hi, I'm Michael Adedapo
+###  Frontend Developer & Technical Support Specialist
 📍 Nigeria | Remote | Freelance & Contract
 
 > **"Building fast, scalable web applications and helping businesses maintain reliable, high-performance production systems."**
@@ -10,13 +10,13 @@
 - 🟢 **Available for:** Full-time | Remote Roles | Contract | Freelance
 - 🛠️ **System Uptime Managed:** 99.9%+
 - 🧪 **Typical Test Coverage:** 85%+
-- 📁 **Selected Portfolio:** [meetmike.netlify.app](https://meetmike.netlify.app/)
+- 📁 **Portfolio:** [meetmike.netlify.app](https://meetmike.netlify.app/)
 
 ---
 
 ### 👨‍💻 Technical Focus & Core Strengths
 
-* **Advanced Front-End Engineering:** Expert in Next.js, React, and TypeScript. Specializing in responsive architectures, advanced static generation (SSG), and server-side rendering (SSR) to deliver fast and robust user interfaces.
+* **Front-End Engineering:** Expert in Next.js, React, and TypeScript. Specializing in responsive architectures, advanced static generation (SSG), and server-side rendering (SSR) to deliver fast and robust user interfaces.
 * **IT Support & Infrastructure:** Skilled in managing enterprise network operations, Active Directory, hardware/software infrastructure, and automating IT helpdesks to maximize business productivity.
 * **Core Web Vitals & Performance:** Experienced in optimizing rendering pipelines, asset pre-fetching, lazy-hydration, and edge caching to dramatically reduce page load times and boost conversions.
 * **Enterprise Systems Management:** Focused on high-availability backend microservices, real-time sync systems, and secure transaction workflows with complete monitoring.
@@ -54,29 +54,6 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Active%20Directory-0078d7.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
 </p>
-
----
-
-### 💼 Professional Experience
-
-#### **Senior Front-End Engineer & IT Support Lead** | Systemic Solutions Ltd
-_Mar 2023 - Present_
-- **Dual Specialization:** Orchestrating high-performance frontend engineering while managing enterprise network operations and infrastructure.
-- **Performance Engineering:** Architected Next.js architectures using SSG/SSR, successfully reducing Largest Contentful Paint (LCP) to 1.2s and cutting initial page latency by 45%.
-- **IT Operations:** Managed local server infrastructure and critical network systems, achieving 99.9% uptime for 100+ active enterprise users.
-- **Helpdesk Automation:** Engineered a helpdesk ticketing integration framework, slashing response and incident resolution times by 40%.
-
-#### **Full-Stack Developer** | Creative Tech Solutions
-_Jan 2022 - Feb 2023_
-- **Scalable Backends:** Developed real-time communication pipelines using WebSockets and Node.js, successfully scaling to support 50k+ concurrent connections with zero packet loss.
-- **Component Systems:** Built and shipped a shared React component library, accelerating future implementation cycles across teams by 20%.
-- **Testing & Quality Assurance:** Established automated testing workflows using Jest and Cypress, elevating test coverage from 40% to 85% and cutting production bugs by 30%.
-
-#### **Freelance Full-Stack Developer** | Independent Consultant
-_June 2021 - Aug 2021_
-- **D2C E-commerce:** Engineered Next.js storefronts with Stripe and PostgreSQL, driving a 25% increase in online transaction success rates.
-- **CMS Portals:** Deployed secure headless CMS portals (Payload CMS, Contentful) enabling non-technical teams to publish campaigns independently.
-
 ---
 
 ### 🚀 Highlighted Case Studies
@@ -146,9 +123,6 @@ _June 2021 - Aug 2021_
 ---
 
 ### 🌍 Connect & Explore
-
-- 🖤 **[Portfolio](https://meetmike.netlify.app/)** — Selected projects, engineering work, and creative builds.
-- ⚡ **[Agency](https://buildwithmike.netlify.app)** — Web development, automation systems, and digital solutions.
 - 💼 **[LinkedIn](https://linkedin.com/in/ademola-m-adedapo)** — Professional background, experience, and collaborations.
 - ✉️ **[Email](mailto:michaeladedapo@gmail.com)** — Open to freelance, partnerships, and opportunities.
 
