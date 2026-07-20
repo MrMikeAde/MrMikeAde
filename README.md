@@ -1,4 +1,4 @@
-#  Hi, I'm Michael Adedapo
+#  Hi, I'm Michael.
 ###  Frontend Developer & Technical Support Specialist
 📍 Nigeria | Remote | Freelance & Contract
 
