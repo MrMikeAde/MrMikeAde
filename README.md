@@ -95,17 +95,6 @@
 
 ---
 
-### 🎨 Creative Builds & Automation Tools
-
-1. 🖤 **[Voidesk](https://github.com/MrMikeAde/Voidesk)** — Professional discovery hub for curated productivity tools, workflows, and digital workspaces. [Demo](https://voidesk.netlify.app/)
-2. 🧩 **[Sudoku Solved](https://github.com/MrMikeAde/sudoku-solved)** — Modern interactive Sudoku game with intelligent gameplay logic and responsive UI.
-3. 💣 **[Minesweeper Delight](http://github.com/MrMikeAde/minesweeper-delight)** — Classic Minesweeper rebuilt with a clean modern interface and smooth gameplay experience.
-4. 🎨 **[Etcher Clone](https://github.com/MrMikeAde/etcher-clone)** — Creative pixel-drawing and sketching application inspired by classic Etch-a-Sketch mechanics.
-5. 🎮 **[Play 2048](https://github.com/MrMikeAde/play-2028)** — Fast-paced 2048-inspired puzzle game focused on addictive number-merging gameplay mechanics.
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
