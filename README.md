@@ -1,13 +1,13 @@
-#  Hi, I'm Michael.
-###  Frontend Developer & Technical Support Specialist
-📍 Nigeria | Remote | Freelance & Contract
+# Hi, I'm Michael Adedapo 👋
+### **Frontend Developer & Technical Support Specialist**
+📍 Nigeria &middot; Remote (Worldwide) &middot; Freelance & Contract
 
-> **"Building fast, scalable web applications and helping businesses maintain reliable, high-performance production systems."**
+> **I build high-performance, scalable web architectures and robust IT support systems to maximize system uptime and load speeds, specializing in React, Next.js, TypeScript, and modern infrastructure.**
 
 ---
 
 ### ⚡ Quick Stats & Availability
-- 🟢 **Available for:** Full-time | Remote Roles | Contract | Freelance
+- 🟢 **Availability:** Open to Full-time, Remote, Contract & Freelance roles
 - 🛠️ **System Uptime Managed:** 99.9%+
 - 🧪 **Typical Test Coverage:** 85%+
 - 📁 **Portfolio:** [meetmike.netlify.app](https://meetmike.netlify.app/)
@@ -27,70 +27,70 @@
 
 **Frontend & Interactive Web**
 <p align="left">
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 **Backend, Database & Cache**
 <p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 **Support, Infrastructure & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0078d7.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" />
 </p>
 ---
 
 ### 🚀 Highlighted Case Studies
 
 #### 1. 🎫 [Distributed Ticketing & Concurrency Control](https://github.com/MrMikeAde/ticket)
-- **Tech Stack:** Next.js, Redis, PostgreSQL, Prisma, Distributed Systems
-- **The Problem:** Concurrent transaction collisions, double-booking, and database node crashes under high-traffic release loads (>10k requests/sec).
-- **The Solution:** Re-engineered the checkout flow utilizing Redis distributed locks (Redlock pattern) to serialize writes on hot resources, backed by an async processing queue and pessimistic database row-locking.
-- **Outcome:** 100% elimination of double-bookings, 40% improvement in TTFB, and successfully scaled to handle 15k+ writes/second without drops.
+- **Tech Stack:** `Next.js` &middot; `Redis` &middot; `PostgreSQL` &middot; `Prisma` &middot; `Distributed Systems`
+- **Challenge:** Concurrent transaction collisions, double-booking, and database node crashes under extreme traffic loads (>10k req/sec).
+- **Strategy:** Re-engineered checkout flow using Redis distributed locks (Redlock pattern) to serialize writes on hot resources, backed by an async processing queue and pessimistic database row-locking.
+- **Metrics & Impact:** **100% elimination** of double-bookings, **40% improvement** in TTFB, and successfully scaled to handle **15k+ writes/second** without drops.
 - **Links:** [Launch Demo](https://booking-bwm.netlify.app/) | [GitHub Repository](https://github.com/MrMikeAde/ticket)
 
 #### 2. 📊 [Enterprise ERP State Management & Automation](https://github.com/MrMikeAde/auto-service)
-- **Tech Stack:** React, Node.js, MongoDB, Zustand, HTML5 Web Workers, IndexedDB
-- **The Problem:** Heavy multi-warehouse inventory recalculation loops running directly on the browser's single main thread caused UI freezes and high frame drops.
-- **The Solution:** Migrated state to a modular Zustand layer with strict selectors, offloaded background computations to dedicated HTML5 Web Workers, and implemented IndexedDB offline-fallback caching.
-- **Outcome:** Reduced CPU execution blocking by 60%, maintaining 60fps rendering during calculations, and boosted operational efficiency by 35%.
+- **Tech Stack:** `React` &middot; `Node.js` &middot; `MongoDB` &middot; `Zustand` &middot; `HTML5 Web Workers` &middot; `IndexedDB`
+- **Challenge:** Heavy multi-warehouse inventory recalculation loops running directly on the browser's single main thread caused UI freezes and high frame drops.
+- **Strategy:** Migrated state to a modular Zustand layer with strict selectors, offloaded background computations to dedicated HTML5 Web Workers, and implemented IndexedDB offline-fallback caching.
+- **Metrics & Impact:** **Reduced CPU execution blocking by 60%**, maintaining **60fps rendering** during calculations, and boosted operational efficiency by **35%**.
 - **Links:** [Launch Demo](https://auto-bwm.netlify.app/) | [GitHub Repository](https://github.com/MrMikeAde/auto-service)
 
 #### 3. 🛍️ [Headless Commerce Performance Engineering](https://github.com/MrMikeAde/LuxeNest-Interiors)
-- **Tech Stack:** Next.js, Shopify API, Web Performance, Tailwind CSS, Vercel Edge
-- **The Problem:** Mobile search presence and retention dropped due to a 4.5s LCP on asset-heavy pages and high CLS on dynamic image blocks.
-- **The Solution:** Transitioned the storefront to a headless Next.js architecture on the Vercel edge, integrating optimized responsive Next.js image pipelines, local bounding box aspect constraints, and 60-second Incremental Static Regeneration (ISR).
-- **Outcome:** Cut mobile LCP from 4.5s to 1.1s, achieved a 100/100 Lighthouse performance score, and boosted sales conversion funnel by 22%.
+- **Tech Stack:** `Next.js` &middot; `Shopify API` &middot; `Web Performance` &middot; `Tailwind CSS` &middot; `Vercel Edge`
+- **Challenge:** Mobile search presence and retention dropped due to a 4.5s LCP on asset-heavy pages and high CLS on dynamic image blocks.
+- **Strategy:** Transitioned storefront to a headless Next.js architecture on the Vercel edge, integrating optimized responsive Next.js image pipelines, local bounding box aspect constraints, and 60-second Incremental Static Rendering (ISR).
+- **Metrics & Impact:** **Cut mobile LCP from 4.5s to 1.1s**, achieved a **100/100 Lighthouse performance score**, and boosted sales conversion funnel by **22%**.
 - **Links:** [Launch Demo](https://luxe-bwm.netlify.app/) | [GitHub Repository](https://github.com/MrMikeAde/LuxeNest-Interiors)
 
 #### 4. 🔄 [Real-Time Multi-Region Sync Engine](https://github.com/MrMikeAde/tastyhub)
-- **Tech Stack:** React, Firebase, Cloud Functions, Consistency Modeling, LocalForage
-- **The Problem:** Field engineers suffered constant work disruptions and database desynchronization due to intermittent remote network drops.
-- **The Solution:** Developed an offline-first synchronization library that queues modifications locally, matching them against remote nodes via logical vector clocks and idempotent automatic merge triggers.
-- **Outcome:** Maintained 99.99% database synchronization correctness across multiple nodes, preventing data loss for 50+ remote agents.
+- **Tech Stack:** `React` &middot; `Firebase` &middot; `Cloud Functions` &middot; `Consistency Modeling` &middot; `LocalForage`
+- **Challenge:** Field engineers suffered constant work disruptions and database desynchronization due to intermittent remote network drops.
+- **Strategy:** Developed an offline-first synchronization library that queues modifications locally, matching them against remote nodes via logical vector clocks and idempotent automatic merge triggers.
+- **Metrics & Impact:** **Maintained 99.99% database synchronization correctness** across multiple nodes, preventing data loss for **50+ remote agents**.
 - **Links:** [Launch Demo](https://tastyhub-bwm.netlify.app/) | [GitHub Repository](https://github.com/MrMikeAde/tastyhub)
 
 #### 5. 📈 [Analytics-Integrated D2C Architecture](https://github.com/MrMikeAde/ftl)
-- **Tech Stack:** Next.js, Payload CMS, TypeScript, Event-Tracking, Stripe API
-- **The Problem:** Webhook retries caused duplicate billing and product shipments, and the marketing team had zero visibility into funnel telemetry.
-- **The Solution:** Implemented server-side event tracking bypassing adblock filters. Built an idempotent Stripe webhook receiver with Redis lookup locks to guarantee single transaction executions.
-- **Outcome:** Reduced double-fulfillment errors to absolute 0% and provided 100% telemetry funnel transparency.
+- **Tech Stack:** `Next.js` &middot; `Payload CMS` &middot; `TypeScript` &middot; `Event-Tracking` &middot; `Stripe API`
+- **Challenge:** Webhook retries caused duplicate billing and product shipments, and the marketing team had zero visibility into funnel telemetry.
+- **Strategy:** Implemented server-side event tracking bypassing adblock filters. Built an idempotent Stripe webhook receiver with Redis lookup locks to guarantee single transaction executions.
+- **Metrics & Impact:** **Reduced double-fulfillment errors to 0%** and provided **100% telemetry funnel transparency**.
 - **Links:** [Launch Demo](https://mguc-bwm.netlify.app/) | [GitHub Repository](https://github.com/MrMikeAde/ftl)
 
 ---
@@ -109,18 +109,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrMikeAde&show_icons=true&theme=github_dark&hide_border=true" alt="MrMikeAde's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrMikeAde&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+  <a href="https://github.com/MrMikeAde">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrMikeAde&show_icons=true&theme=github_dark&hide_border=true" alt="MrMikeAde's GitHub Stats" height="175" style="max-width: 100%;" />
+  </a>
+  <a href="https://github.com/MrMikeAde">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrMikeAde&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="175" style="max-width: 100%;" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMikeAde&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/MrMikeAde">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMikeAde&theme=github_dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%;" />
+  </a>
 </p>
 
 ---
 
 ### 🌍 Connect & Explore
 - 💼 **[LinkedIn](https://linkedin.com/in/ademola-m-adedapo)** — Professional background, experience, and collaborations.
+- 🐦 **[X / Twitter](https://x.com/mrmikeade)** — Tech insights, thoughts, and industry trends.
 - ✉️ **[Email](mailto:michaeladedapo@gmail.com)** — Open to freelance, partnerships, and opportunities.
 
 ---
