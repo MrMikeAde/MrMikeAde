@@ -2,7 +2,7 @@
 ### **Frontend Developer & Technical Support Specialist**
 📍 Nigeria &middot; Remote (Worldwide) &middot; Freelance & Contract
 
-> **I build high-performance, scalable web architectures and robust IT support systems to maximize system uptime and load speeds, specializing in React, Next.js, TypeScript, and modern infrastructure.**
+> **I build high-performance, scalable web architectures and robust IT support systems to maximize system uptime and load speeds, specializing in Next.js, TypeScript, and modern infrastructure.**
 
 ---
 
