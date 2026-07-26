@@ -116,9 +116,8 @@
 
 ### 🌍 Connect & Explore
 - 💼 **[LinkedIn](https://linkedin.com/in/ademola-m-adedapo)** — Professional background, experience, and collaborations.
-- 🐦 **[X / Twitter](https://x.com/mrmikeade)** — Tech insights, thoughts, and industry trends.
 - ✉️ **[Email](mailto:michaeladedapo@gmail.com)** — Open to freelance, partnerships, and opportunities.
 
 ---
 
-> *"Your Source for Global Tech Solutions"*
+> *"Build with MIKE"*
