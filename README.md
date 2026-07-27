@@ -1,4 +1,4 @@
-# Hi, I'm Michael Adedapo 👋
+# Hi, I'm Michael Adedapo
 ### **Frontend Developer & Technical Support Specialist**
 📍 Nigeria &middot; Remote (Worldwide) &middot; Freelance & Contract
 
@@ -8,8 +8,6 @@
 
 ### ⚡ Quick Stats & Availability
 - 🟢 **Availability:** Open to Full-time, Remote, Contract & Freelance roles
-- 🛠️ **System Uptime Managed:** 99.9%+
-- 🧪 **Typical Test Coverage:** 85%+
 - 📁 **Portfolio:** [meetmike.netlify.app](https://meetmike.netlify.app/)
 
 ---
