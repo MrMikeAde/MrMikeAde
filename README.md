@@ -30,11 +30,6 @@ Sample ticket-booking site for a live-events business: event listings, booking f
 **Stack:** Next.js · Tailwind CSS
 **Demo:** [booking-bwm.netlify.app](https://booking-bwm.netlify.app/)
 
-#### 🚗 AutoService Pro — Auto Repair Shop
-Sample business site for an auto repair shop: service listings, appointment booking, staff/contact pages.
-**Stack:** Next.js · Tailwind CSS
-**Demo:** [auto-bwm.netlify.app](https://auto-bwm.netlify.app/)
-
 #### 🛋️ LuxeNest Interiors — Home & Interiors Store
 Sample e-commerce storefront for a home interiors brand, built with a performance-first approach to page load and mobile experience.
 **Stack:** Next.js · Tailwind CSS
