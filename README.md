@@ -1,5 +1,6 @@
 # Hi, I'm Michael Adedapo
 ### Frontend Developer & Technical Support Specialist
+
 📍 Nigeria &middot; Remote (Worldwide) &middot; Freelance & Contract
 
 > I build fast, responsive websites and web applications, and support the systems that keep them running — from frontend engineering to production troubleshooting.
@@ -13,16 +14,17 @@
 ---
 
 ### 👨‍💻 Technical Focus
-
 - **Frontend Engineering:** React, Next.js, TypeScript, Tailwind CSS — responsive, performance-focused user interfaces.
 - **CMS & E-Commerce:** WordPress, WooCommerce, custom themes and plugins, headless CMS (Payload, Contentful), Stripe integrations.
 - **Backend & APIs:** Node.js, REST API integration, authentication, SQL.
 - **IT & Infrastructure Support:** Server and network administration, Active Directory, LDAP, Google Workspace, VPN/firewall configuration.
 
----
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,wordpress,graphql,figma" alt="Tech Stack Icons" />
+</p>
 
 ### 🚀 Demo & Sample Builds
-
 A few sample sites I've built to show prospective clients what I can deliver across different industries — live demos, not production client sites.
 
 #### 🎫 EventHub — Event Ticket Booking
@@ -45,13 +47,21 @@ Sample food-ordering site: menu browsing, multi-location listings, online orderi
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/MrMikeAde">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrMikeAde&show_icons=true&theme=github_dark&hide_border=true" alt="MrMikeAde's GitHub Stats" height="175" style="max-width: 100%;" />
   </a>
   <a href="https://github.com/MrMikeAde">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrMikeAde&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="175" style="max-width: 100%;" />
+  </a>
+</p>
+
+---
+
+### 🔥 Streak
+<p align="center">
+  <a href="https://github.com/MrMikeAde">
+    <img src="https://streak-stats.demolab.com?user=MrMikeAde&theme=github-dark-blue&hide_border=true" alt="MrMikeAde's GitHub Streak" style="max-width: 100%;" />
   </a>
 </p>
 
