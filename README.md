@@ -46,18 +46,6 @@ Sample food-ordering site: menu browsing, multi-location listings, online orderi
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/MrMikeAde">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrMikeAde&show_icons=true&theme=github_dark&hide_border=true" alt="MrMikeAde's GitHub Stats" height="175" style="max-width: 100%;" />
-  </a>
-  <a href="https://github.com/MrMikeAde">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrMikeAde&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="175" style="max-width: 100%;" />
-  </a>
-</p>
-
----
-
 ### 🔥 Streak
 <p align="center">
   <a href="https://github.com/MrMikeAde">
