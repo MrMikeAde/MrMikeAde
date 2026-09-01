@@ -11,7 +11,7 @@ Nigeria &middot; Remote (Worldwide) &middot; Freelance & Contract
 ### Availability
 
 - **Status:** Open to Full-time, Remote, Contract & Freelance roles
-- **Portfolio:** [meetmike.netlify.app](https://meetmike.netlify.app/)
+- **Portfolio:** [meetmike.com.ng](https://meetmike.com.ng/)
 - **Book a call:** [cal.com/mrmike/30min](https://cal.com/mrmike/30min)
 
 ---
