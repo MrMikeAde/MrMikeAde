@@ -44,6 +44,25 @@
       <img src="./assets/card-profit-tracker-light.svg" alt="Profit Tracker" width="248" height="150" align="top" />
     </picture>
   </a>
+  <br />
+  <a href="https://github.com/MrMikeAde/lead-generation-system">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-lead-gen-dark.svg" />
+      <img src="./assets/card-lead-gen-light.svg" alt="Lead Generation System" width="248" height="150" align="top" />
+    </picture>
+  </a>
+  <a href="https://github.com/MrMikeAde/SIMPLEHELPDESK">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-helpdesk-dark.svg" />
+      <img src="./assets/card-helpdesk-light.svg" alt="SimpleHelpDesk" width="248" height="150" align="top" />
+    </picture>
+  </a>
+  <a href="https://github.com/MrMikeAde/Cal.com-Clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-calcom-dark.svg" />
+      <img src="./assets/card-calcom-light.svg" alt="Cal.com Clone" width="248" height="150" align="top" />
+    </picture>
+  </a>
 </p>
 
 <br />
@@ -79,8 +98,8 @@
 </p>
 
 <p align="center">
-  <a href="https://meetmike.netlify.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-meetmike.netlify.app-1e293b?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://meetmike.com.ng/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-meetmike.com.ng-1e293b?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ademola-m-adedapo" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-ademola--m--adedapo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
