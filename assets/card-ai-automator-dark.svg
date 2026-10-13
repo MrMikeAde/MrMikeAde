@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="150" viewBox="0 0 248 150" fill="none">
+  <rect x="1" y="1" width="246" height="148" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #f8fafc; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #94a3b8; line-height: 1.4; }
+    .tag { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 600; font-size: 10px; fill: #60a5fa; }
+  </style>
+  <text x="16" y="32" class="title">AI Job Application Automator</text>
+  <text x="16" y="56" class="desc">AI tool that discovers jobs,</text>
+  <text x="16" y="72" class="desc">analyzes descriptions &amp; tailors</text>
+  <text x="16" y="88" class="desc">resumes and cover letters.</text>
+  <rect x="16" y="110" width="130" height="20" rx="4" fill="#1e293b"/>
+  <text x="24" y="124" class="tag">AI • Python • Automation</text>
+</svg>
